@@ -1,12 +1,16 @@
-input_list=("ERR2037035" \
-	"ERR2037036" \
-	"ERR2071902" \
-	"ERR2071903" \
-	"ERR2071906" \
-	"ERR2071907")
-input_dir=Briggs_2018-2019_wt-DRIP_fastq/
-output_dir=Drip-seq_analysis
+input_list=("BSF_Early_S" \
+"BSF_G1" \
+"BSF_G21M" \
+"BSF_Late_S" \
+"Early_S" \
+"G1" \
+"G2" \
+"Late_S" \
+"PCF_Early_S" \
+"PCF_G1" \
+"PCF_G21M" \
+"PCF_Late_S" )
+input_dir=data_MFA_tiengwe2012-devlin2016/
+output_dir=MFA_analysis
 genome=genome/TriTrypDB-55_TbruceiLister427_2018_Genome/index_bowtie2/TriTrypDB-55_TbruceiLister427_2018_Genome
-# genome=genome/TriTrypDB-62_TbruceiTREU927_Genome/index_bowtie2/TriTrypDB-62_TbruceiTREU927_Genome
 prefix=aln_Tb427_2018_v55
-# prefix=
