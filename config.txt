@@ -11,6 +11,7 @@ input_list=("BSF_Early_S" \
 "PCF_G21M" \
 "PCF_Late_S" )
 input_dir=data_MFA_tiengwe2012-devlin2016
-output_dir=MFA_analysis
-genome=genome/TriTrypDB-55_TbruceiLister427_2018_Genome/index_bowtie2/TriTrypDB-55_TbruceiLister427_2018_Genome
-prefix=aln_Tb427_2018_v55
+output_dir=MFA_analysis_927
+# genome=genome/TriTrypDB-55_TbruceiLister427_2018_Genome/index_bowtie2/TriTrypDB-55_TbruceiLister427_2018_Genome
+genome=genome/TriTrypDB-62_TbruceiTREU927_Genome/index_bowtie2/TriTrypDB-62_TbruceiTREU927_Genome
+prefix=aln_Tb927_v62
