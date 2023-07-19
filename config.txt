@@ -1,0 +1,12 @@
+input_list=("ERR2037035" \
+	"ERR2037036" \
+	"ERR2071902" \
+	"ERR2071903" \
+	"ERR2071906" \
+	"ERR2071907")
+input_dir=Briggs_2018-2019_wt-DRIP_fastq/
+output_dir=Drip-seq_analysis
+genome=genome/TriTrypDB-55_TbruceiLister427_2018_Genome/index_bowtie2/TriTrypDB-55_TbruceiLister427_2018_Genome
+# genome=genome/TriTrypDB-62_TbruceiTREU927_Genome/index_bowtie2/TriTrypDB-62_TbruceiTREU927_Genome
+prefix=aln_Tb427_2018_v55
+# prefix=
