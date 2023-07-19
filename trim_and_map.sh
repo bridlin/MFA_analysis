@@ -18,7 +18,7 @@ module load samtools/1.13
 module load trim-galore/0.6.5
 module load deeptools/3.5.0
 
-source MFA_analysis/config.txt
+source scripts/MFA_analysis/config.txt
 
 mkdir $output_dir
 for x in "${input_list[@]}"; do
