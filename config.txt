@@ -12,7 +12,7 @@ input_list=("BSF_Early_S" \
 "PCF_Late_S" )
 input_dir=data_MFA_tiengwe2012-devlin2016
 # output_dir=MFA_analysis_927
-output_dir=MFA_analysis_427-2018
+output_dir=MFA_analysis_427-2018_k1
 genome=genome/TriTrypDB-55_TbruceiLister427_2018_Genome/index_bowtie2/TriTrypDB-55_TbruceiLister427_2018_Genome
 # genome=genome/TriTrypDB-62_TbruceiTREU927_Genome/index_bowtie2/TriTrypDB-62_TbruceiTREU927_Genome
 prefix=aln_Tb427-2018_v55
